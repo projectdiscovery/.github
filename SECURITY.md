@@ -2,7 +2,7 @@ Thanks for helping make ProjectDiscovery safe for everyone.
 
 ## Security
 
-ProjectDiscovery takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/projectdiscovery).
+ProjectDiscovery takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [ProjectDiscovery](https://github.com/projectdiscovery).
 
 ## Reporting Security Issues
 

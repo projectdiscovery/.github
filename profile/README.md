@@ -25,11 +25,21 @@ Since 2020, we gained over **50K Github stars** :star:, merged **over 10K pull 
 
 Love our mission and work? If you decide to contribute to any of our projects, we would be delighted to collaborate with you and refine your pull requests to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://boards.greenhouse.io/projectdiscoveryinc) 🙌
 
-We are a well-funded company, having recently secured a $25M Series A from some of the top VCs.
+We are a well-funded company, having recently secured a $25M Series A from some of the top VCs and angels:
 
-<b> △ [Caleb Sima (CISO @Robinhood)](https://www.linkedin.com/in/calebsima/)
-<br> △ [Jason Chan (Former CISO @Netflix)](https://www.linkedin.com/in/jasonbchan/)
+<b> △ [Gerhard Eschelbeck (Former CISO @Google)](https://www.linkedin.com/in/gerhardeschelbeck/)
 <br> △ [Guillermo Rauch (CEO @Vercel)](https://www.linkedin.com/in/guillermo-rauch-b834b917b/)
+<br> △ [Caleb Sima (CISO @Robinhood)](https://www.linkedin.com/in/calebsima/)
 <br> △ [Guy Podjarny (Founder @Snyk)](https://www.linkedin.com/in/guypo/)
 <br> △ [Talha Tariq(CISO @Hashicorp)](https://www.linkedin.com/in/talhatariq/) 
-<br> △ [Sean Leach(Chief Product Architect @Fastly)](https://www.linkedin.com/in/seanleach/)</b>
+<br> △ [Sean Leach(Chief Product Architect @Fastly)](https://www.linkedin.com/in/seanleach/)
+<br> △ [Joseph Jacks (JJ)](https://www.linkedin.com/in/josephjacks/)
+<br> △ [Chenxi Wang (Rain Capital)](https://www.linkedin.com/in/chenxiwang88/)
+<br> △ [Jason Chan (Former CISO @Netflix)](https://www.linkedin.com/in/jasonbchan/)
+<br> △ [Michael Coates (Former CISO @Twitter)](https://www.linkedin.com/in/mcoates/)</b>
+
+### Signup to join the waitlist for Nuclei Cloud
+
+[Click here](https://d6k267hn56d.typeform.com/nuclei-cloud) to signup for Nuclei Cloud waitlist. Bundled with smart automations and integrations.
+
+Write us to [hello@projectdiscovery](mailto:hello@projectdiscovery) for any other queries and partnerships.

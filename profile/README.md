@@ -40,6 +40,7 @@ We are a well-funded company, having recently secured a $25M Series A from some 
 
 ### Signup to join the waitlist for Nuclei Cloud
 
-[Click here](https://d6k267hn56d.typeform.com/nuclei-cloud) to signup for Nuclei Cloud waitlist. Bundled with smart automations and integrations.
+Nuclei Cloud is a managed offering that features the advanced scaling, integrations, and smart automations to run Nuclei in modern enterprise environments. [Click here to signup.](https://nuclei.sh)
+
 
 Write us to [hello@projectdiscovery](mailto:hello@projectdiscovery) for any other queries and partnerships.

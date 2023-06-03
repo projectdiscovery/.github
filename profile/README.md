@@ -43,4 +43,4 @@ We are a well-funded company, having recently secured a $25M Series A from some 
 Nuclei Cloud is a managed offering that features the advanced scaling, integrations, and smart automations to run Nuclei in modern enterprise environments. [Click here to signup.](https://nuclei.sh)
 
 
-Write us to [hello@projectdiscovery](mailto:hello@projectdiscovery) for any other queries and partnerships.
+Write us to [hello@projectdiscovery.io](mailto:hello@projectdiscovery.io) for any other queries and partnerships.

@@ -1,25 +1,23 @@
-Thanks for helping make ProjectDiscovery safe for everyone.
+## Reporting Security Issues to ProjectDiscovery
 
-## Security
+At ProjectDiscovery, we prioritize the security of our software products and services, which includes maintaining the security of our open source code repositories hosted on GitHub.
 
-ProjectDiscovery takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [ProjectDiscovery](https://github.com/projectdiscovery).
+If you discover a potential security vulnerability in any of the repositories owned by ProjectDiscovery, we kindly request that you report it to us through coordinated disclosure.
 
-## Reporting Security Issues
+**Please refrain from reporting security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-If you believe you have found a security vulnerability in any ProjectDiscovery owned repository, please report it to us through coordinated disclosure.
+Instead, please reach out to us via email at security[@]projectdiscovery.io.
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
+To assist us in understanding and resolving the issue effectively, please provide us with as much of the following information as possible:
 
-Instead, please send an email to security[@]projectdiscovery.io.
+* The type of vulnerability identified (e.g., remote code execution, SQL injection, or cross-site scripting)
+* Full paths of the relevant source file(s) where the vulnerability is manifested
+* The location of the affected source code (tag/branch/commit or direct URL)
+* Any specific configuration required to reproduce the issue
+* Step-by-step instructions to replicate the issue
+* Proof-of-concept or exploit code (if feasible)
+* The potential impact of the vulnerability, including potential methods of exploitation by an attacker
 
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+Providing this information will facilitate the prompt triaging of your report.
 
-  * The type of issue (e.g., Remote code execution, SQL injection, or cross-site scripting)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
-
-This information will help us triage your report more quickly.
+Thank you for your contribution to ensuring the safety of ProjectDiscovery.

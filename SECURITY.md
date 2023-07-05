@@ -6,7 +6,7 @@ If you discover a potential security vulnerability in any of the repositories ow
 
 **Please refrain from reporting security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please reach out to us via email at security[@]projectdiscovery.io.
+Instead, please reach out to us via email at **security@projectdiscovery.io**.
 
 To assist us in understanding and resolving the issue effectively, please provide us with as much of the following information as possible:
 

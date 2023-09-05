@@ -1,5 +1,6 @@
 
-![PD](https://user-images.githubusercontent.com/35542790/210367425-47248caf-c030-4812-b109-0d1a3449006d.jpg)
+![ProjectDiscovery_Website_Social_Image](https://github.com/projectdiscovery/.github/assets/6044920/9c85affd-d5c6-4724-9306-6120748fb5ee)
+
 
 
 At ProjectDiscovery, we are on a mission to bring security to everyone 🚀

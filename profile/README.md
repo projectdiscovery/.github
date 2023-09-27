@@ -25,9 +25,9 @@ Since 2020, we gained over **50K Github stars** :star:, merged **over 10K pull 
 
 Love our mission and work? If you decide to contribute to any of our projects, we would be delighted to collaborate with you and refine your pull requests to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://boards.greenhouse.io/projectdiscoveryinc) 🙌
 
-### Signup to join the waitlist for Nuclei Cloud
+### Signup to join the waitlist for ProjectDiscovery Cloud Platform
 
-Nuclei Cloud is a managed offering that features the advanced scaling, integrations, and smart automations to run Nuclei in modern enterprise environments. [Click here to signup.](https://nuclei.sh)
+ProjectDiscovery Cloud Platform is a managed offering that features the advanced scaling, integrations, and smart automations to run Nuclei in modern enterprise environments. [Click here to signup.](https://projectdiscovery.io)
 
 
 Write us to [hello@projectdiscovery.io](mailto:hello@projectdiscovery.io) for any other queries and partnerships.

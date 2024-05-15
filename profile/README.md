@@ -1,14 +1,17 @@
 # ProjectDiscovery
 Our mission is to Democratize Security.
 
-[ProjectDiscovery](https://projectdiscovery.io/) is an open source powered security company. We specialize in detecting new, exploitable vulnerabilities and misconfigurations so you can remediate them before hackers exploit them.
+[ProjectDiscovery](https://projectdiscovery.io/?utm_source=github&utm_medium=web&utm_campaign=pd-profile) is an open source powered security company. We specialize in detecting new, exploitable vulnerabilities and misconfigurations so you can remediate them before hackers exploit them.
 
 ## Getting Started
-- PDCP & OSS
-- Join Discord
+- [ProjectDiscovery Cloud Platform (PDCP)](https://projectdiscovery.io/platform?utm_source=github&utm_medium=web&utm_campaign=pd-profile) helps you find and quickly detect vulnerabiltiies for your most critcal assets. Get started for free and upgrade if needed to enable cloud scanning and other features.
+- [Documentation](https://docs.projectdiscovery.io/introduction): Learn all about ProjectDiscovery and our tools
+- [Run a Nuclei scan now](https://docs.projectdiscovery.io/getstarted-example?utm_source=github&utm_medium=web&utm_campaign=pd-profile)
 
 ## PD Open Source Tools
-ProjectDiscovery maintains over 20 open source security tools. To learn about all of the tools, check out [this video](https://www.youtube.com/watch?v=o4T3NTl-vCg). You can also find the tools in our various GitHub repositories. A few of our most popular projects include:
+ProjectDiscovery produces a suite of open source tools tailored for offensive security: security engineers, bug bounty hunters, and red teamers. Our toolkit is structured around three distinct layers to optimize your security assessment and penetration testing processes. We also provide utilities and libraries as building blocks for an offensive security or bug bounty hunting program.
+
+To learn about all of the tools, see our [tools documentation](https://docs.projectdiscovery.io/tools/index?utm_source=github&utm_medium=web&utm_campaign=pd-profile) or check out [this video](https://www.youtube.com/watch?v=o4T3NTl-vCg). You can also find the tools in our various GitHub repositories. A few of our most popular projects include:
 
 - [nuclei](https://github.com/projectdiscovery/nuclei): A fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.

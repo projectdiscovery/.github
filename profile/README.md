@@ -8,11 +8,15 @@ Our mission is to Democratize Security.
 - Join Discord
 
 ## PD Open Source Tools
+ProjectDiscovery maintains over 20 open source security tools. To learn about all of the tools, check out [this video](https://www.youtube.com/watch?v=o4T3NTl-vCg). You can also find the tools in our various GitHub repositories. A few of our most popular projects include:
 
-
-At ProjectDiscovery, we are on a mission to bring security to everyone 🚀
-
-We are an open-source cyber security company, we build tools for security engineers and developers to design and manage vulnerability workflows faster and better. 
+- [nuclei](https://github.com/projectdiscovery/nuclei): A fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [subfinder](https://github.com/projectdiscovery/subfinder): A fast passive subdomain enumeration tool leveraging dozens of APIs.
+- [httpx](https://github.com/projectdiscovery/httpx): A fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [cvemap](https://github.com/projectdiscovery/cvemap): A CLI to Navigate the CVE jungle with ease.
+- [katana](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
+- [naabu](https://github.com/projectdiscovery/naabu): A fast port scanner written in go with a focus on reliability and simplicity.
 
 ## Community
 Our community is a dedicated space for security engineers and developers to collaborate, share knowledge, and learn how to manage vulnerability workflows more efficiently and effectively. By participating, you gain access to a wealth of resources, including tutorials, best practices, and the collective expertise of industry professionals, all aimed at enhancing your skills and improving your ability to handle security challenges.
@@ -23,9 +27,9 @@ Our community is a dedicated space for security engineers and developers to coll
 
 ### Contributing
 
-<b> ○ [Create issues across our tools (bugs, enhancements, feature ideas)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aprojectdiscovery+is%3Apublic)
-<br> ○ [Contribute to community driven database of vulnerability templates](https://github.com/projectdiscovery/nuclei-templates)
-<br> ○ [Pull request review](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aprojectdiscovery+is%3Apublic)</b>
+- [Create issues across our tools (bugs, enhancements, feature ideas)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aprojectdiscovery+is%3Apublic)
+- [Contribute to community driven database of vulnerability templates](https://github.com/projectdiscovery/nuclei-templates)
+- [Pull request review](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aprojectdiscovery+is%3Apublic)</b>
  
 ## Work with us
 

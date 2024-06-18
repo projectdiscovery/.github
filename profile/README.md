@@ -9,7 +9,7 @@ Our mission is to Democratize Security.
 - [ProjectDiscovery Cloud Platform (PDCP)](https://projectdiscovery.io/platform?utm_source=github&utm_medium=web&utm_campaign=pd-profile) helps you find and quickly detect vulnerabiltiies for your most critcal assets. Get started for free and upgrade if needed to enable cloud scanning and other features.
 - [Documentation](https://docs.projectdiscovery.io/introduction) where you can learn all about ProjectDiscovery and our tools
 - [Run a Nuclei scan now](https://docs.projectdiscovery.io/getstarted-example?utm_source=github&utm_medium=web&utm_campaign=pd-profile) with just a few steps
-- [Learn more about templates](https://docs.projectdiscovery.io/templates/introduction?utm_source=github&utm_medium=web&utm_campaign=pd-profile), he cornerstone of the Nuclei scanning engine. Nuclei templates enable precise and rapid scanning across various protocols like TCP, DNS, HTTP, and more.
+- [Learn more about templates](https://docs.projectdiscovery.io/templates/introduction?utm_source=github&utm_medium=web&utm_campaign=pd-profile), the cornerstone of the Nuclei scanning engine. Nuclei templates enable precise and rapid scanning across various protocols like TCP, DNS, HTTP, and more.
 - [Need help?](https://docs.projectdiscovery.io/help/home) We're available on [GitHub](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aprojectdiscovery+is%3Apublic) and [Discord](https://nux.gg/discord) - feel free to reach out and join our community!
 
 ## PD Open Source Tools

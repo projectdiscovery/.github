@@ -1,4 +1,3 @@
-# ProjectDiscovery
 Our mission is to Democratize Security.
 
 [ProjectDiscovery](https://projectdiscovery.io/?utm_source=github&utm_medium=web&utm_campaign=pd-profile) is an open source powered security company. We specialize in detecting new, exploitable vulnerabilities and misconfigurations so you can remediate them before hackers exploit them.

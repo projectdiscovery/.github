@@ -1,5 +1,3 @@
-![ProjectDiscovery](https://raw.githubusercontent.com/mjorritsma/public-images/main/GitHub-Header.png)
-
 # ProjectDiscovery
 Our mission is to Democratize Security.
 

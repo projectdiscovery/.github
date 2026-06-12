@@ -34,10 +34,6 @@ Our community is a dedicated space for security engineers and developers to coll
 - [Create issues across our tools (bugs, enhancements, feature ideas)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aprojectdiscovery+is%3Apublic)
 - [Contribute to community driven database of vulnerability templates](https://github.com/projectdiscovery/nuclei-templates)
 - [Pull request review](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aprojectdiscovery+is%3Apublic)</b>
- 
-## Work with us
-
-Love our mission and work? If you decide to contribute to any of our projects, we would be delighted to collaborate with you and refine your pull requests to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://boards.greenhouse.io/projectdiscoveryinc) 🙌
 
 ## Other Questions
 Write us to [hello@projectdiscovery.io](mailto:hello@projectdiscovery.io) for any other questions you might have.
